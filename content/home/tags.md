@@ -9,9 +9,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 10
 
-title: Mei's Slide Decks 👩🏼‍🏫
-subtitle: An example of writing _open_ slides with Markdown
-
+title: Hehy's talks 👩🏼‍🏫
+subtitle: Some slides.
 content:
   # Choose the taxonomy from `config.yaml` to display (e.g. tags, categories)
   taxonomy: tags
