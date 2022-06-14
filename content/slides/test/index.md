@@ -1,8 +1,8 @@
 ---
-title: Example Slides
-summary: An introduction to using Wowchemy's Slides feature.
+title: Test slides
+summary: Wawo
 authors: []
-tags: ['Tutorials']
+tags: ['Test']
 categories: []
 date: '2019-02-05'
 slides:
